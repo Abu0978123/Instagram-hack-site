@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200;300;400;500;600&family=Mulish:wght@700&family=Roboto:ital,wght@0,100;1,100&display=swap");
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgba(255, 255, 255, 0.5);
+  font-family: "bai Jamjuree";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.header .span {
+  font-size: none;
+  font-weight: none;
+  color: red;
+}
+
+.text-color {
+  color: rgb(36, 3, 248);
+  margin: auto;
+}
+
+.formm {
+  margin-left: 20px;
+}
+
+.img {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.bannerr h4 {
+  font-weight: 600;
+}
+.bannerr h4 p {
+  font-weight: 500;
+}/*# sourceMappingURL=index.css.map */
